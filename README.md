@@ -20,7 +20,7 @@ All authors are with the Computing Institute at Federal University of Alagoas (U
 * You need to clone [PolSAR.jl](https://github.com/gsd-ufal/PolSAR.jl.git) and enter to directory:
 
 ```
-$ git clone Pkg.clone("https://github.com/gsd-ufal/PolSAR.jl.git") && cd PolSAR.jl/src
+$ git clone https://github.com/gsd-ufal/PolSAR.jl.git && cd PolSAR.jl/src
 ```
 
 * Download experiment script and put it at the same folder PolSAR.jl/src:
